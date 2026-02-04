@@ -1865,7 +1865,7 @@ def load_config():
             # تمیز کردن و حذف تکراری‌ها قبل از تست
             cleaned_lines = clear_p(lines) 
             # تنظیم تگ اولیه برای همه
-            tagged_lines = set_initial_tag(cleaned_lines, "hamedp71")
+            tagged_lines = set_initial_tag(cleaned_lines, "HSHvpn")
             print(f"Loaded and prepared {len(tagged_lines)} configs from {TEXT_PATH} for testing.")
             return tagged_lines, False # is_dict همیشه False است
     except FileNotFoundError:
@@ -2095,6 +2095,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
