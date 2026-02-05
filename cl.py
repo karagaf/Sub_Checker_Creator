@@ -34,7 +34,7 @@ FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 """
 FIN_CONF=[]
-CHECK_LOC=True
+CHECK_LOC=False
 CHECK_IRAN=True
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Pars Online (پارس آنلاین)
@@ -2095,6 +2095,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
