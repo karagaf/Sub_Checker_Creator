@@ -29,7 +29,7 @@ with open(CONF_PATH,"r") as file_client_set:
 TEXT_PATH="normal.txt"
 LINK_PATH=[ "https://raw.githubusercontent.com/hshvpn-coder/Sub_Checker_Creator/refs/heads/main/final.txt" ] # [ "" , "" , ... ]
 FIN_PATH="final.txt"
-FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+FILE_HEADER_TEXT = """//profile-title: base64:SFNIdnBuINin2YbZhNin24zZhiDYr9ixINmH2YXZhyDYtNix2KfbjNi3
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 """
@@ -2095,6 +2095,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
