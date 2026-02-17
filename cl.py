@@ -27,7 +27,7 @@ with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
-LINK_PATH=[ "https://raw.githubusercontent.com/hshvpn-coder/Sub_Checker_Creator/refs/heads/main/final.txt" ] # [ "" , "" , ... ]
+LINK_PATH=[ "https://raw.githubusercontent.com/hamedp-71/Sub_Checker_Creator/refs/heads/main/final.txt" ] # [ "" , "" , ... ]
 FIN_PATH="final.txt"
 FILE_HEADER_TEXT = """//profile-title: base64:SFNIdnBuINin2YbZhNin24zZhiDYr9ixINmH2YXZhyDYtNix2KfbjNi3
 //profile-update-interval: 1
@@ -2095,6 +2095,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
