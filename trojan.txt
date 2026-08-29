@@ -2,17 +2,28 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#HSHvpn
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#HSHvpn
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#HSHvpn
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#HSHvpn
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org&type=tcp&headerType=none&path=%2f&allow_insecure=0#HSHvpn
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#HSHvpn
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&fp=chrome&type=tcp&path=%2f#HSHvpn
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@am12.levikogjgfdd.ir:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#HSHvpn
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#HSHvpn
-trojan://ba19c9d6-3fc0-4085-9f47-465c5d7cceef@108.162.198.99:443?type=ws&path=/x7f9k2m4p8&host=ajp.hyas.space&security=tls&sni=ajp.hyas.space#HSHvpn
-trojan://humanity@188.114.98.0:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#HSHvpn
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome#HSHvpn
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=android#HSHvpn
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=qq#HSHvpn
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=safari#HSHvpn
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=chrome#HSHvpn
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=qq#HSHvpn
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=safari#HSHvpn
-trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&fp=edge#HSHvpn
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#HSHvpn
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#HSHvpn
+trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#HSHvpn
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#HSHvpn
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#HSHvpn
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#HSHvpn
+trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#HSHvpn
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#HSHvpn
